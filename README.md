@@ -5,20 +5,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 <p align="center">
-  <img src="./img/codeconnect-1.png" width="800">
+  <img src="./img/codeConnect(1).png" width="800">
 </p>
 
 <p align="center">
-  <img src="./img/codeconnect-2.png" width="390">
-  <img src="./img/codeconnect-3.png" width="390">
+  <img src="./img/codeConnect(2).png" width="390">
+  <img src="./img/codeConnect(3).png" width="390">
 </p>
 
 ---
 
 ## 📌 Links
 
-* **Repositório:** https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono
 * **Projeto Online:** [Página.CodeConnect.com](https://leonardo-daniel-sc.github.io/pagina-com-javascript-assincrono)
+* * **Repositório:** https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono
+  * 
 ---
 
 ## 📖 Sobre o projeto
