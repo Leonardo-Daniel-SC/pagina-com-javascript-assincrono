@@ -18,8 +18,8 @@
 ## 📌 Links
 
 * **Projeto Online:** [Página.CodeConnect.com](https://leonardo-daniel-sc.github.io/pagina-com-javascript-assincrono)
-* * **Repositório:** https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono
-  * 
+* **Repositório:** https://github.com/Leonardo-Daniel-SC/pagina-com-javascript-assincrono
+
 ---
 
 ## 📖 Sobre o projeto
