@@ -113,6 +113,8 @@ form div textarea {
 
 .lista-tags {
     display: flex;
+    flex: wrap;
+    gap: 8px;
 }
 
 .lista-tags li {
@@ -122,14 +124,15 @@ form div textarea {
     gap: 10px;
     padding: 4px 8px;
     border-radius: 4px;
-}
-
-.lista-tags li p {
     white-space: nowrap;
 }
 
 .imagem-tag {
-    width: 10%;
+    height: 1.0em;
+    width: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .container-botoes {
